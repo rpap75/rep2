@@ -33,3 +33,4 @@ while (adoptAnswer == "no") {
 if (adoptAnswer == "yes") {
     document.write("<b>Outstanding! This is the perfect place for you. Take a look at our available animals for adoption</b>");
 }
+//i am testing
