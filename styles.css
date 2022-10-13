@@ -1,12 +1,41 @@
-/*
 body {
-  background-color: aqua;
+  background: linear-gradient(#7bebda, white);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: "Courier New", Courier, monospace;
 }
-*/
+
 img {
   height: 300px;
 }
 
-section {
+.toppic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.mid {
   display: inline-block;
+  width: 45%;
+}
+.mid img {
+  display: block;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 30px; 
+}
+footer {
+  margin-top: 50px;
+}
+p {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+.foot {
+  text-align: left;
 }
